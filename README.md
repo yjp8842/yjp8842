@@ -1,1 +1,1 @@
-## Welcome to JINY House !
+## JINY_EARTH
