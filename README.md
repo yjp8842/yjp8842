@@ -24,9 +24,7 @@
 ### Stats
 <hr>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjp8842)](https://solved.ac/yjp8842)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjp8842&show_icons=true&theme=radical)
+<img align='left' width='45%' src="http://mazassumnida.wtf/api/generate_badge?boj=yjp8842">  <img width='50%' src="https://github-readme-stats.vercel.app/api?username=yjp8842&show_icons=true&theme=radical">
 
 
 ### Languages
