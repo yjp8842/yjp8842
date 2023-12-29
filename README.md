@@ -1,13 +1,12 @@
 <hr>
 
-## 안녕하세요,
+## 안녕하세요 👋
 
 - 저는 기술로 선한 영향력을 끼치고 싶은 개발자입니다.
 - 저는 끊임없이 학습하고, 계속해서 성장하고자 합니다.
 - 주로 사용하는 언어는 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 입니다.
 
-
-### ETC
+### 💻 ETC
 <hr>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -20,14 +19,12 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-### Stats
+### 💡 Stats
 <hr>
 
-<img align='left' width='45%' src="http://mazassumnida.wtf/api/generate_badge?boj=yjp8842">  <img width='50%' src="https://github-readme-stats.vercel.app/api?username=yjp8842&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjp8842&layout=compact&theme=dark" height="195px" /> <img src="https://github-readme-stats.vercel.app/api?username=yjp8842&show_icons=true&theme=radical" height="195px" />
 
-
-### Languages
+### 👩‍💻 Algorithm
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjp8842&layout=compact)](https://github.com/yjp8842/github-readme-stats)
+<img align='left' width='45%' src="http://mazassumnida.wtf/api/generate_badge?boj=yjp8842">
