@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td align="center" width="200">기간</th>
-    <td align="center" width="400">내용</th>
+    <td align="center" width="500">내용</th>
     <td align="center" width="400"></th>
   </tr>
   <tr>
