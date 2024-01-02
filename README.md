@@ -24,57 +24,6 @@
 <br>
 <hr>
 
-### 💡 Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjp8842&layout=compact&theme=dark" height="195px" /> <img src="https://github-readme-stats.vercel.app/api?username=yjp8842&show_icons=true&theme=radical" height="195px" />
-
-<br>
-<hr>
-
-### 👩‍💻 Algorithm
-
-<img align='left' width='41%' src="https://mazassumnida.wtf/api/generate_badge?boj=yjp8842">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-
-### ✍ Experience
-
-<table>
-  <tr>
-    <td align="center" width="300">기간</th>
-    <td align="center" width="500">내용</th>
-    <td align="center" width="300"></th>
-  </tr>
-  <tr>
-    <td align="center">2023.12 ~ 현재</td>
-    <td align="center">신한투자증권 프로디지털아카데미 3기</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">2022.07 ~ 2023.06</td>
-    <td align="center">삼성 청년 SW 아카데미 8기</td>
-    <td align="center">수료</td>
-  </tr>	
-  <tr>
-    <td align="center">2018.03 ~ 2022.08</td>
-    <td align="center">국민대학교 재무금융회계학부 회계학전공</td>
-    <td align="center">졸업</td>
-  </tr>
-</table>
-
-<br>
-<hr>
-
 ### 🚀 Projects
 
 <table>
@@ -107,3 +56,42 @@
     </td>
   </tr>
 </table>
+
+<br>
+<hr>
+
+### 💡 Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjp8842&layout=compact&theme=dark" height="195px" /> <img src="https://github-readme-stats.vercel.app/api?username=yjp8842&show_icons=true&theme=radical" height="195px" />
+
+<br>
+<hr>
+
+### 👩‍💻 Algorithm
+
+<img align='left' width='41%' src="https://mazassumnida.wtf/api/generate_badge?boj=yjp8842">
+
+<!-- ### ✍ Experience
+
+<table>
+  <tr>
+    <td align="center" width="300">기간</th>
+    <td align="center" width="500">내용</th>
+    <td align="center" width="300"></th>
+  </tr>
+  <tr>
+    <td align="center">2023.12 ~ 현재</td>
+    <td align="center">신한투자증권 프로디지털아카데미 3기</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">2022.07 ~ 2023.06</td>
+    <td align="center">삼성 청년 SW 아카데미 8기</td>
+    <td align="center">수료</td>
+  </tr>
+  <tr>
+    <td align="center">2018.03 ~ 2022.08</td>
+    <td align="center">국민대학교 재무금융회계학부 회계학전공</td>
+    <td align="center">졸업</td>
+  </tr>
+</table> -->
