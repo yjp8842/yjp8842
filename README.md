@@ -84,7 +84,7 @@
     <td align="center" width="300"></th>
   </tr>
   <tr>
-    <td align="center">2023.05 ~ 2023.04</td>
+    <td align="center">2023.04 ~ 2023.05</td>
     <td align="center">실시간 사용자 인터랙션을 더한 모임 관리 어플리케이션</td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/134198603?s=200&v=4" width="5%" />
