@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">2023.04 ~ 2023.05</td>
-    <td align="center">실시간 사용자 인터랙션을 더한 모임 관리 어플리케이션</td>
+    <td align="center">실시간 사용자 인터랙션을 더한 <br> 모임 관리 어플리케이션</td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/134198603?s=200&v=4" width="5%" />
       <a href="https://github.com/lets-kkiri">끼리</a>
@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td align="center">2023.02 ~ 2023.04</td>
-    <td align="center">개발자를 위한 시간 맞춤 테크 컨텐츠 추천 서비스</td>
+    <td align="center">개발자를 위한 시간 맞춤 테크 컨텐츠 <br> 추천 서비스</td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/130298944?s=200&v=4" width="5%" />
       <a href="https://github.com/biscuit-today">비스킷</a>
@@ -97,29 +97,4 @@
 
 ### 👩‍💻 Algorithm
 
-<img align='left' width='41%' src="https://mazassumnida.wtf/api/generate_badge?boj=yjp8842">
-
-<!-- ### ✍ Experience
-
-<table>
-  <tr>
-    <td align="center" width="300">기간</th>
-    <td align="center" width="500">내용</th>
-    <td align="center" width="300"></th>
-  </tr>
-  <tr>
-    <td align="center">2023.12 ~ 현재</td>
-    <td align="center">신한투자증권 프로디지털아카데미 3기</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">2022.07 ~ 2023.06</td>
-    <td align="center">삼성 청년 SW 아카데미 8기</td>
-    <td align="center">수료</td>
-  </tr>
-  <tr>
-    <td align="center">2018.03 ~ 2022.08</td>
-    <td align="center">국민대학교 재무금융회계학부 회계학전공</td>
-    <td align="center">졸업</td>
-  </tr>
-</table> -->
+<img align='left' width='43%' src="https://mazassumnida.wtf/api/generate_badge?boj=yjp8842">
