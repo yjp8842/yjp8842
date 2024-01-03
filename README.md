@@ -58,7 +58,7 @@
   <tr>
     <td align="center" width="300">기간</th>
     <td align="center" width="500">내용</th>
-    <td align="center" width="300"></th>
+    <td align="center" width="300">Github</th>
   </tr>
   <tr>
     <td align="center">2023.04 ~ 2023.05</td>
