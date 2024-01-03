@@ -24,9 +24,12 @@
 <br>
 <hr>
 
+
 ### ✍ Education
 
+
 <table>
+
   <tr>
     <td align="center" width="300">기간</th>
     <td align="center" width="500">내용</th>
@@ -47,6 +50,7 @@
     <td align="center">국민대학교 재무금융회계학부 회계학전공</td>
     <td align="center">졸업</td>
   </tr>
+  
 </table>
 
 <br>
@@ -54,7 +58,9 @@
 
 ### 🚀 Projects
 
+
 <table>
+
   <tr>
     <td align="center" width="300">기간</th>
     <td align="center" width="500">내용</th>
@@ -83,6 +89,7 @@
       <a href="https://github.com/yjp8842/Maroommo">마룸모</a>
     </td>
   </tr>
+
 </table>
 
 <br>
