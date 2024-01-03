@@ -24,7 +24,7 @@
 <br>
 <hr>
 
-### ✍ Experience
+### ✍ Education
 
 <table>
   <tr>
