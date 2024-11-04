@@ -11,7 +11,7 @@
 
 ### 💻 ETC
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![ReactNative](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![ReactNative](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white) ![Recoil](https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=ffdd54)
 
@@ -33,16 +33,18 @@
 | 2022.07 ~ 2023.06 | 삼성 청년 SW 아카데미 8기              |
 | 2018.03 ~ 2022.08 | 국민대학교 재무금융회계학부 회계학전공 |
 
-<!-- <br>
+<br>
 <hr>
 
 ### 🚀 Projects
 
 | 기간              | 내용                                                 |                                                                        |
 | ----------------- | ---------------------------------------------------- | ---------------------------------------------------------------------- |
-| 2023.04 ~ 2023.05 | 실시간 사용자 인터랙션을 더한 모임 관리 어플리케이션 | [끼리](https://www.notion.so/7a2cb01a528b416cb32f3fd3cec40e68?pvs=4)   |
-| 2023.02 ~ 2023.04 | 개발자를 위한 시간 맞춤 테크 컨텐츠 추천 서비스      | [비스킷](https://www.notion.so/2b88debae5fc4152b14f5316db140195?pvs=4) |
-| 2023.01 ~ 2023.02 | 통합 스터디 플랫폼                                   | [마룸모](https://www.notion.so/1f0eb49820574a6a97d46d92b5b61937?pvs=4) | -->
+| 2024.05 ~ 2024.06 | 배당주와 P2P 투자를 한 곳에서 관리할 수 있는 통합 플랫폼 | [돈터치](https://github.com/PDA-Dontouch)   |
+| 2024.02 ~ 2024.04 | 투자전략 공유 플랫폼                               | [스톡메이트](https://github.com/Invest-SNS)   |
+| 2023.04 ~ 2023.05 | 실시간 사용자 인터랙션을 더한 모임 관리 어플리케이션  | [끼리](https://github.com/lets-kkiri)   |
+| 2023.02 ~ 2023.04 | 개발자를 위한 시간 맞춤 테크 컨텐츠 추천 서비스      | [비스킷](https://github.com/biscuit-today) |
+| 2023.01 ~ 2023.02 | 통합 스터디 플랫폼                                 | [마룸모](https://github.com/yjp8842/Maroommo) |
 
 <br>
 <hr>
